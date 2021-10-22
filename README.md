@@ -6,4 +6,4 @@ Data set downloaded from [kaggle](https://www.kaggle.com/crowdflower/twitter-air
 
 I have compared the following machine learning algorithms: Multinomial Naive Bayes, Logistic Regression, Support Vector Classifier. Models were fit to the data using their standard configuration. The best model was deployed to be used in raw tweets. 
 
-The next step is to improve the models using grid-search...to be continued
+The next step is to improve the models using cross validaation and grid-search...to be continued
