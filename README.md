@@ -1,9 +1,12 @@
-# NLP_Twitter-US-Airline-Sentiment
+# Twitter airline sentiment project
 
-Data set downloaded from [kaggle](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
+<p align="center">
+<img src="images/tweet-bird.jpg" width="350"/>
+</p>
+<br>
 
-"A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service")."
+Using natural language processing algorithms to classify twitters from travellers of six different US airline companies as positive, negative and neutral.
 
-I have compared the following machine learning algorithms: Multinomial Naive Bayes, Logistic Regression, Support Vector Classifier. Models were fit to the data using their default parameters. The best model was deployed to be used in raw tweets. 
+I have compared Multinomial Naive Bayes, Logistic Regression and Support Vector Classifier using their default hyperparameters and locally deployed the best model to be used in raw tweets. 
 
-The next step is to improve the models using cross validaation and grid-search...to be continued
+The dataset is available in [kaggle.com](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) 
